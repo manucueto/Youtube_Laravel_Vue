@@ -1,13 +1,13 @@
 <script setup>
 import Header from './components/Header.vue'
-
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
   
     <Header/>
-    <!--por qué no puedo importar mi componente Header?-->
-  
+    
+    <Footer/>
 </template>
 
 <style scoped>
